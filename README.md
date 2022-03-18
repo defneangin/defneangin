@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @defneangin
-- 👀 I’m interested in gamification
+- 👀 I’m interested in game-thinking
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on sustainability solutions
 
